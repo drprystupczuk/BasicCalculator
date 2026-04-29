@@ -8,13 +8,4 @@ Archivos incluidos
 Notas
 - Este proyecto es únicamente con fines educativos.
 
-Publicación en GitHub
-1. Inicialice un repositorio local si es necesario: `git init`.
-2. Agregue los archivos y haga el primer commit:
-   - `git add .`
-   - `git commit -m "Commit inicial: Proyecto académico Calculadora Básica"`
-3. Cree un nuevo repositorio en GitHub (a través del sitio web) y siga las instrucciones para añadir el remoto, por ejemplo:
-   - `git remote add origin https://github.com/<su-usuario>/<nombre-repo>.git`
-   - `git push -u origin main` (o `master` según su rama por defecto)
-
 See the English version of this README: `README.md`
